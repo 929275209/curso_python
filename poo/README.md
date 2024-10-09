@@ -41,3 +41,10 @@ Lenguaje Unificado de Modelado (los objetos son representados por rectamgulos or
 No olvidemos que segun el contexto (donde usare el onjeto) seran sus atributos.
 ![alt text](image-2.png)
 los metodos solo hacen una sola cosa
+
+### ARGUMENTOS
+-name(string):nombre de usuario
+-lastname(string):apellido del usuario
+-cui(int):numero de identificacion dni
+-acount(int):numero de cuenta
+-amount(int):saldo o monto del usuario
